@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="classdel_1_1_del_class" kind="class" language="Python" prot="public">
+    <compoundname>del::DelClass</compoundname>
+    <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classdel_1_1_del_class_1a561c0f90da1e7ac3eb492b092caccafa" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int del.DelClass::classVar</definition>
+        <argsstring></argsstring>
+        <name>classVar</name>
+        <qualifiedname>del.DelClass.classVar</qualifiedname>
+        <initializer>=  0</initializer>
+        <briefdescription>
+<para>A class variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" line="30" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" bodystart="30" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="classdel_1_1_del_class_1ab40f10ce00abcd00c5630c0636d51777" prot="protected" static="no" mutable="no">
+        <type></type>
+        <definition>del.DelClass::_memVar</definition>
+        <argsstring></argsstring>
+        <name>_memVar</name>
+        <qualifiedname>del.DelClass._memVar</qualifiedname>
+        <briefdescription>
+<para>a member variable </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" line="19" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" bodystart="19" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classdel_1_1_del_class_1ac55aae84559603c603ea9f1025e223b0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>del.DelClass.__init__</definition>
+        <argsstring>(self)</argsstring>
+        <name>__init__</name>
+        <qualifiedname>del.DelClass.__init__</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+<para>The constructor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" line="18" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classdel_1_1_del_class_1a7254685b3c17f47028aad8ed4be8ee18" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>del.DelClass.DelMethod</definition>
+        <argsstring>(self)</argsstring>
+        <name>DelMethod</name>
+        <qualifiedname>del.DelClass.DelMethod</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+<para>Documentation for a method. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>self</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The object pointer. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" line="24" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" bodystart="24" bodyend="28"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+<para>Documentation for a class. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>More details. </para>
+    </detaileddescription>
+    <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" line="15" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" bodystart="15" bodyend="35"/>
+    <listofallmembers>
+      <member refid="classdel_1_1_del_class_1ac55aae84559603c603ea9f1025e223b0" prot="public" virt="non-virtual"><scope>del::DelClass</scope><name>__init__</name></member>
+      <member refid="classdel_1_1_del_class_1ab40f10ce00abcd00c5630c0636d51777" prot="protected" virt="non-virtual"><scope>del::DelClass</scope><name>_memVar</name></member>
+      <member refid="classdel_1_1_del_class_1a561c0f90da1e7ac3eb492b092caccafa" prot="public" virt="non-virtual"><scope>del::DelClass</scope><name>classVar</name></member>
+      <member refid="classdel_1_1_del_class_1a7254685b3c17f47028aad8ed4be8ee18" prot="public" virt="non-virtual"><scope>del::DelClass</scope><name>DelMethod</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

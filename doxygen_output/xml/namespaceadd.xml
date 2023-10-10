@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="namespaceadd" kind="namespace" language="Python">
+    <compoundname>add</compoundname>
+    <innerclass refid="classadd_1_1_add_class" prot="public">add::AddClass</innerclass>
+    <sectiondef kind="func">
+      <memberdef kind="function" id="add_8py_1abe2ae0e2883c257893765fc37cee14c0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>add.addfunc</definition>
+        <argsstring>()</argsstring>
+        <name>addfunc</name>
+        <qualifiedname>add.addfunc</qualifiedname>
+        <briefdescription>
+<para>Documentation for a function. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>More details. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="9" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" bodystart="9" bodyend="11"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

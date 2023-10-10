@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="classadd_1_1_add_class" kind="class" language="Python" prot="public">
+    <compoundname>add::AddClass</compoundname>
+    <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classadd_1_1_add_class_1aaabb7bf2c4a0a8707b2e9fb8541b5621" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int add.AddClass::classVar</definition>
+        <argsstring></argsstring>
+        <name>classVar</name>
+        <qualifiedname>add.AddClass.classVar</qualifiedname>
+        <initializer>=  0</initializer>
+        <briefdescription>
+<para>A class variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="29" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" bodystart="29" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="classadd_1_1_add_class_1ae77e7e9c0d0ce2a7552aeb2f6b48f91b" prot="protected" static="no" mutable="no">
+        <type></type>
+        <definition>add.AddClass::_memVar</definition>
+        <argsstring></argsstring>
+        <name>_memVar</name>
+        <qualifiedname>add.AddClass._memVar</qualifiedname>
+        <briefdescription>
+<para>a member variable </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="19" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" bodystart="19" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classadd_1_1_add_class_1aa45f083eaccd44f61a518896fdde978c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>add.AddClass.__init__</definition>
+        <argsstring>(self)</argsstring>
+        <name>__init__</name>
+        <qualifiedname>add.AddClass.__init__</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+<para>The constructor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="18" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classadd_1_1_add_class_1a66e121a660f07c82dd226d429d922aa3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>add.AddClass.PyMethod</definition>
+        <argsstring>(self)</argsstring>
+        <name>PyMethod</name>
+        <qualifiedname>add.AddClass.PyMethod</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+<para>Documentation for a method. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>self</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The object pointer. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="24" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" bodystart="24" bodyend="27"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+<para>Documentation for a class. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>More details. </para>
+    </detaileddescription>
+    <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="15" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" bodystart="15" bodyend="34"/>
+    <listofallmembers>
+      <member refid="classadd_1_1_add_class_1aa45f083eaccd44f61a518896fdde978c" prot="public" virt="non-virtual"><scope>add::AddClass</scope><name>__init__</name></member>
+      <member refid="classadd_1_1_add_class_1ae77e7e9c0d0ce2a7552aeb2f6b48f91b" prot="protected" virt="non-virtual"><scope>add::AddClass</scope><name>_memVar</name></member>
+      <member refid="classadd_1_1_add_class_1aaabb7bf2c4a0a8707b2e9fb8541b5621" prot="public" virt="non-virtual"><scope>add::AddClass</scope><name>classVar</name></member>
+      <member refid="classadd_1_1_add_class_1a66e121a660f07c82dd226d429d922aa3" prot="public" virt="non-virtual"><scope>add::AddClass</scope><name>PyMethod</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

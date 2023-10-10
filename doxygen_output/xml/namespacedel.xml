@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="namespacedel" kind="namespace" language="Python">
+    <compoundname>del</compoundname>
+    <innerclass refid="classdel_1_1_del_class" prot="public">del::DelClass</innerclass>
+    <sectiondef kind="func">
+      <memberdef kind="function" id="del_8py_1a0770a8e4f7d9fb884f34a43dd5660345" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>del.delfunc</definition>
+        <argsstring>()</argsstring>
+        <name>delfunc</name>
+        <qualifiedname>del.delfunc</qualifiedname>
+        <briefdescription>
+<para>Documentation for a function. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>More details. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" line="9" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" bodystart="9" bodyend="11"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/del.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="classmain_1_1_py_class" kind="class" language="Python" prot="public">
+    <compoundname>main::PyClass</compoundname>
+    <sectiondef kind="public-static-attrib">
+      <memberdef kind="variable" id="classmain_1_1_py_class_1acfa204b6c923f355f08496f5eb137eb6" prot="public" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int main.PyClass::classVar</definition>
+        <argsstring></argsstring>
+        <name>classVar</name>
+        <qualifiedname>main.PyClass.classVar</qualifiedname>
+        <initializer>=  0</initializer>
+        <briefdescription>
+<para>A class variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" line="29" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" bodystart="29" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-attrib">
+      <memberdef kind="variable" id="classmain_1_1_py_class_1a86103c7e96928214d0956e9cb1fff69a" prot="protected" static="no" mutable="no">
+        <type></type>
+        <definition>main.PyClass::_memVar</definition>
+        <argsstring></argsstring>
+        <name>_memVar</name>
+        <qualifiedname>main.PyClass._memVar</qualifiedname>
+        <briefdescription>
+<para>a member variable </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" line="19" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" bodystart="19" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="classmain_1_1_py_class_1a61ff724d9b64b6270724b3e610813c28" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.PyClass.__init__</definition>
+        <argsstring>(self)</argsstring>
+        <name>__init__</name>
+        <qualifiedname>main.PyClass.__init__</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+<para>The constructor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" line="18" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="classmain_1_1_py_class_1ad1db581fa4842809b61f7ebe1c0fa34b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>main.PyClass.PyMethod</definition>
+        <argsstring>(self)</argsstring>
+        <name>PyMethod</name>
+        <qualifiedname>main.PyClass.PyMethod</qualifiedname>
+        <param>
+          <type>self</type>
+          <defname>self</defname>
+        </param>
+        <briefdescription>
+<para>Documentation for a method. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>self</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The object pointer. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" line="24" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" bodystart="24" bodyend="27"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+<para>Documentation for a class. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>More details. </para>
+    </detaileddescription>
+    <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" line="15" column="1" bodyfile="E:/工作记录/文档/doxygen_sphinx_RTD/src/main.py" bodystart="15" bodyend="34"/>
+    <listofallmembers>
+      <member refid="classmain_1_1_py_class_1a61ff724d9b64b6270724b3e610813c28" prot="public" virt="non-virtual"><scope>main::PyClass</scope><name>__init__</name></member>
+      <member refid="classmain_1_1_py_class_1a86103c7e96928214d0956e9cb1fff69a" prot="protected" virt="non-virtual"><scope>main::PyClass</scope><name>_memVar</name></member>
+      <member refid="classmain_1_1_py_class_1acfa204b6c923f355f08496f5eb137eb6" prot="public" virt="non-virtual"><scope>main::PyClass</scope><name>classVar</name></member>
+      <member refid="classmain_1_1_py_class_1ad1db581fa4842809b61f7ebe1c0fa34b" prot="public" virt="non-virtual"><scope>main::PyClass</scope><name>PyMethod</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

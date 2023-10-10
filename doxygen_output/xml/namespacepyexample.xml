@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.8" xml:lang="en-US">
+  <compounddef id="namespacepyexample" kind="namespace" language="Python">
+    <compoundname>pyexample</compoundname>
+    <briefdescription>
+<para>Documentation for this module. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>for del</para>
+<para>More details.</para>
+<para>del detail </para>
+    </detaileddescription>
+    <location file="E:/工作记录/文档/doxygen_sphinx_RTD/src/add.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>
